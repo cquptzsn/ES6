@@ -1,2 +1,2 @@
-ES6 practice demo
+ES6 practice demo,
 please checkout master branch for beginning
